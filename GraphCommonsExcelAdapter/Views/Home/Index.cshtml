@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Veri Yükleme";
+}
+<div class="row">
+    <h2>Veri Yükleme</h2>
+    @using (Html.BeginForm("UploadExcel", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal" }))
+    {
+        <div class="form-group">
+            <label class="col-lg-3 col-md-3 col-sm-12" for="file">Excel Dosyası</label>
+            <input class="form-control col-lg-3 col-md-3 col-sm-12" type="file" name="file" />
+        </div>
+        <button class="btn btn-info">Gönder</button>
+    }
+</div>
+

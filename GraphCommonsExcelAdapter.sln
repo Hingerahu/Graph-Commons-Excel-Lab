@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphCommonsExcelAdapter", "GraphCommonsExcelAdapter\GraphCommonsExcelAdapter.csproj", "{176B49BA-A44A-4721-94BA-642EF57DDCB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphCommonsExcelAdapter.Tests", "GraphCommonsExcelAdapter.Tests\GraphCommonsExcelAdapter.Tests.csproj", "{59F769AD-6A65-4C2A-9D24-517D581F4283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphCommonsExcelBusiness", "GraphCommonsExcelBusiness\GraphCommonsExcelBusiness.csproj", "{BD03044E-A077-4C94-B478-1CA55C6E874A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176B49BA-A44A-4721-94BA-642EF57DDCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176B49BA-A44A-4721-94BA-642EF57DDCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176B49BA-A44A-4721-94BA-642EF57DDCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176B49BA-A44A-4721-94BA-642EF57DDCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F769AD-6A65-4C2A-9D24-517D581F4283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F769AD-6A65-4C2A-9D24-517D581F4283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F769AD-6A65-4C2A-9D24-517D581F4283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F769AD-6A65-4C2A-9D24-517D581F4283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD03044E-A077-4C94-B478-1CA55C6E874A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD03044E-A077-4C94-B478-1CA55C6E874A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD03044E-A077-4C94-B478-1CA55C6E874A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD03044E-A077-4C94-B478-1CA55C6E874A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

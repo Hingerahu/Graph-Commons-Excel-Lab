@@ -1,0 +1,13 @@
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\obj\Debug\GraphCommonsExcelBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\GraphCommonsExcelBusiness.dll
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\GraphCommonsExcelBusiness.pdb
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\SpreadsheetLight.dll
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\SpreadsheetLight.xml
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\obj\Debug\GraphCommonsExcelBusiness.dll
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\obj\Debug\GraphCommonsExcelBusiness.pdb
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\GraphCommonsExcelBusiness.dll.config
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\RestSharp.dll
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\RestSharp.xml
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\Newtonsoft.Json.xml
