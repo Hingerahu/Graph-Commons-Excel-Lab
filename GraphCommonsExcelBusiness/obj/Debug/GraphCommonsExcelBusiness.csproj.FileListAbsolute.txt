@@ -11,3 +11,16 @@ C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\
 C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\RestSharp.xml
 C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelBusiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\obj\Debug\GraphCommonsExcelBusiness.csprojAssemblyReference.cache
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\obj\Debug\GraphCommonsExcelBusiness.csproj.CoreCompileInputs.cache
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\bin\Debug\GraphCommonsExcelBusiness.dll.config
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\bin\Debug\GraphCommonsExcelBusiness.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\bin\Debug\GraphCommonsExcelBusiness.pdb
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\bin\Debug\RestSharp.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\bin\Debug\SpreadsheetLight.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\bin\Debug\RestSharp.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\bin\Debug\SpreadsheetLight.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\obj\Debug\GraphCommonsExcelBusiness.csproj.CopyComplete
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\obj\Debug\GraphCommonsExcelBusiness.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelBusiness\obj\Debug\GraphCommonsExcelBusiness.pdb

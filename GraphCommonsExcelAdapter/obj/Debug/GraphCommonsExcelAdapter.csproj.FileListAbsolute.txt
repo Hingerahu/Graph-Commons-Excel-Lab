@@ -25,3 +25,33 @@ C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\
 C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelAdapter\bin\RestSharp.xml
 C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelAdapter\bin\Newtonsoft.Json.dll
 C:\Users\Batierk\Documents\Visual Studio 2013\Projects\GraphCommonsExcelAdapter\GraphCommonsExcelAdapter\bin\Newtonsoft.Json.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\obj\Debug\GraphCommonsExcelAdapter.csprojAssemblyReference.cache
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\obj\Debug\GraphCommonsExcelAdapter.csproj.CoreCompileInputs.cache
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\GraphCommonsExcelAdapter.dll.config
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\GraphCommonsExcelAdapter.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\GraphCommonsExcelAdapter.pdb
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\GraphCommonsExcelBusiness.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.Helpers.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.Mvc.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.Razor.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.WebPages.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.WebPages.Razor.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\SpreadsheetLight.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\RestSharp.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\Newtonsoft.Json.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\GraphCommonsExcelBusiness.pdb
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\GraphCommonsExcelBusiness.dll.config
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.Helpers.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.Mvc.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.Razor.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.WebPages.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\System.Web.WebPages.Razor.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\SpreadsheetLight.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\RestSharp.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\bin\Newtonsoft.Json.xml
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\obj\Debug\GraphCommonsExcelAdapter.csproj.CopyComplete
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\obj\Debug\GraphCommonsExcelAdapter.dll
+C:\Users\batierk\Documents\src\Graph-Commons-Excel-Lab\GraphCommonsExcelAdapter\obj\Debug\GraphCommonsExcelAdapter.pdb
